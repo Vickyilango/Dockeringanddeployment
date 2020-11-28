@@ -1,4 +1,4 @@
-# Dockeringanddeployment
+# Dockering a Machine learning model after creating flask and testing it before deploying to Kubernetes.
 
 
 This is a sample code to deploy your machine learning model in Flask into Docker / Kubernetes.
