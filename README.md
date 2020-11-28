@@ -11,7 +11,9 @@ This is a sample code to deploy your machine learning model in Flask into Docker
 6) All check if its installing the requirements.
 7) Now inside folder app/ paste your main.py as init.py
 8) Check all the params and cofig files needed for that file are in the main folder Flask and called correctly.
+
 9)Now check the flask app by running it and testing at local host like usual. If working,
+
 10)Build the docker file using
 
 (Make sure you are in parent directory or root directory)
